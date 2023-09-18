@@ -3,7 +3,7 @@ package homework_001;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 
-public class SqlGenerator {
+public class SqlGenerator_try1 {
 
   public String generateTable(Class<?> tableClass){
     try {
